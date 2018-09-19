@@ -14,6 +14,7 @@ public class Test1 {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.flipkart.com/");
 		driver.manage().window().maximize();
+		System.out.println("Applicaion opened");
 		
 	}
 	
