@@ -15,7 +15,7 @@ public class Test1 {
 		driver.get("https://www.flipkart.com/");
 		driver.manage().window().maximize();
 		System.out.println("Applicaion opened");
-		System.out.println("pushed");
+		System.out.println("pushed by sadanandam");
 		
 	}
 	
